@@ -1,0 +1,262 @@
+<html>
+<head> 
+<style>
+h1 {
+color: blue;
+font-family: verdana;
+font-size: 300%;
+}
+h2 {
+color: black;
+font-family: verdana;
+font-size: 150%;
+}
+
+#li.3 {
+Padding-left:16px;
+color:black;
+}
+p {
+color: black;
+  font-family: georgia;
+  font-size: 125%;
+}
+u {
+color:orange;
+}
+#ul1 {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #208308;
+}
+
+li {
+  float: left;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: Blue;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #FFFFFF;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #FF7000;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+</style>
+<title>
+
+</title>
+<link rel="icon" type="image/x-icon" href="C:\Users\ABC\Desktop\New folder\Source\Logo\favion.png">
+</head>
+
+<body background="C:\Users\ABC\Desktop\New folder\Source\Logo\tri.jpg">
+<img src="C:\Users\ABC\Desktop\New folder\Source\Logo\logo copy.png" height="100" width="450">
+<a href="C:\Users\ABC\Desktop\New folder\Log_in.html"><img src="C:\Users\ABC\Desktop\New folder\Source\log_in.png" style="float:right;width:225px;height:100px"></a>
+<p>
+<ul id="ul1">
+  <li><a class="active" href="C:\Users\ABC\Desktop\New folder\Remarkable India (Home).html">Home</a></li>
+   <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">States</a>
+    <div class="dropdown-content">
+    <a href="Andhra Pradesh.html">Andhra Pradesh</a>
+      <a href="Arunachal_Pradesh.html">Arunachal Pradesh</a>
+      <a href="Assam.html">Assam</a>
+<a href="Bihar.html">Bihar</a>
+      <a href="Chhattisgarh.html">Chhattisgarh</a>
+      <a href="Goa.html">Goa</a>
+<a href="Gujarat.html">Gujarat</a>
+      <a href="Haryana.html">Haryana</a>
+      <a href="Himachal Pradesh.html">Himachal Pradesh</a>
+<a href="Jharkhand.html">Jharkhand</a>
+      <a href="Karnataka.html">Karnataka</a>
+      <a href="Kerala.html">Kerala</a>
+<a href="Madhya Pradesh.html">Madhya Pradesh</a>
+      <a href="Maharashtra.html">Maharashtra</a>
+      <a href="Manipur.html">Manipur</a>
+<a href="Meghalaya.html">Meghalaya</a>
+      <a href="Mizoram.html">Mizoram</a>
+      <a href="Nagaland.html">Nagaland</a>
+<a href="Odisha.html">Odisha</a>
+      <a href="Punjab.html">Punjab</a>
+      <a href="Rajasthan.html">Rajasthan</a>
+<a href="Sikkim.html">Sikkim</a>
+      <a href="Tamil Nadu.html">Tamil Nadu</a>
+      <a href="Telangana.html">Telangana</a>
+<a href="Tripura.html">Tripura</a>
+<a href="Uttar Pradesh.html">Uttar Pradesh</a>
+      <a href="Uttarakhand.html">Uttarakhand</a>
+      <a href="West Bengal.html">West Bengal</a>
+    </div>
+    </li>
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Union Territories</a>
+    <div class="dropdown-content">
+    <a href="Delhi.html">Delhi</a>
+      <a href="Andaman & Nicobar.html">Andaman & Nicobar</a>
+<a href="Chandigarh.html">Chandigarh</a>
+      <a href="Dadra and Nagar Haveli and Daman and Diu.html">Dadra and Nagar Haveli and Daman and Diu</a>
+      <a href="Lakshadweep.html">Lakshadweep</a>
+<a href="Jammu & Kashmir.html">Jammu & Kashmir</a>
+      <a href="Ladakh.html">Ladakh</a>
+      <a href="Puducherry.html">Puducherry</a>
+</div>
+</li>
+  <li><a href="#contact">Contact</a></li>
+</ul>
+<u><h1 align="center">Top 20 Tourist places in  </h1></u><br>
+<a id="bottom"><a href="#top">Go to bottom V</a></a>
+<ol>
+<h2><li id="li3"></li></h2><br><br>
+<img src="C:\Users\ABC\Desktop\New folder\Source\states\AIZAWL.jpg" border=5 width=380 height=240><br>
+<p></p>
+
+<br>
+
+<h2><li></li></h2><br><br>
+<img src="C:\Users\ABC\Desktop\New folder\Source\states\Serchhip.jpg" border=5 width=380 height=240><br>
+<p></p>
+
+<br>
+
+<h2><li></li></h2><br><br>
+<img src="C:\Users\ABC\Desktop\New folder\Source\states\LUNGLEI.jpg" border=5 width=380 height=240><br>
+<p></p>
+
+<br>
+
+<h2><li></li></h2><br><br>
+<img src="C:\Users\ABC\Desktop\New folder\Source\states\CHAMPHAI.jpg" border=5 width=380 height=240><br>
+<p></p>
+
+<br>
+
+<h2><li></li></h2><br><br>
+<img src="C:\Users\ABC\Desktop\New folder\Source\states\MAMIT.jpg" border=5 width=380 height=240><br>
+<p></p> 
+
+<br>
+
+<h2><li></li></h2><br><br>
+<img src="C:\Users\ABC\Desktop\New folder\Source\states\SAIHA.jpg" border=5 width=380 height=240><br>
+<p></p>
+
+<br>
+
+<h2><li></li></h2><br><br>
+<img src="C:\Users\ABC\Desktop\New folder\Source\states\KOLASIB.jpg" border=5 width=380 height=240><br>
+<p></p>
+
+<br>
+
+<h2><li></li></h2><br><br>
+<img src="C:\Users\ABC\Desktop\New folder\Source\states\800pxReiek_20200616153331.jpg" border=5 width=380 height=240><br>
+<p></p>
+
+<br>
+
+<h2><li></li></h2><br><br>
+<img src="C:\Users\ABC\Desktop\New folder\Source\states\4063_20190307163518.jpg" border=5 width=380 height=240><br>
+<p></p>
+
+<br>
+
+<h2><li></li></h2><br><br>
+<img src="C:\Users\ABC\Desktop\New folder\Source\states\368_20190212155501jpg.jpg" border=5 width=380 height=240><br>
+<p></p>
+
+<br>
+
+<h2><li></li></h2><br><br>
+<img src="C:\Users\ABC\Desktop\New folder\Source\states\22b38a043fbffdcae4202ea15919b08cDampaTigerReserve1_20180120172124.jpg" border=5 width=380 height=240><br>
+<p></p>
+
+<br>
+
+<h2><li></li></h2><br><br>
+<img src="C:\Users\ABC\Desktop\New folder\Source\states\3025392150_6d9febb543_o_20180816104614.jpg" border=5 width=380 height=240><br>
+<p></p>
+
+<br>
+
+<h2><li></li></h2><br><br>
+<img src="C:\Users\ABC\Desktop\New folder\Source\states\heritage-village-in-kohima-408528815_20171011192838.jpg" border=5 width=380 height=240><br>
+<p></p>
+
+<br>
+
+<h2><li></li></h2><br><br>
+<img src="C:\Users\ABC\Desktop\New folder\Source\states\attr_wiki_5234_20190618095610.jpg" border=5 width=380 height=240><br>
+<p></p>
+
+<br>
+
+<h2><li></li></h2><br><br>
+<img src="C:\Users\ABC\Desktop\New folder\Source\states\Phawngpui_national_park_20180821203405.jpg" border=5 width=380 height=240><br>
+<p></p>
+
+<br>
+
+<h2><li></li></h2><br><br>
+<img src="C:\Users\ABC\Desktop\New folder\Source\states\CyGtfZnVEAAUNC6-1_20181225120210.jpg" border=5 width=380 height=240><br>
+<p></p>
+
+<br>
+
+<h2><li></li></h2><br><br>
+<img src="C:\Users\ABC\Desktop\New folder\Source\states\img-20170505-wa0005-largejpg.jpg" border=5 width=380 height=240><br>
+<p></p>
+
+<br>
+
+<h2><li></li></h2><br><br>
+<img src="C:\Users\ABC\Desktop\New folder\Source\states\Mamit-400x229.jpg" border=5 width=380 height=240><br>
+<p></p>
+
+<br>
+
+<h2><li></li></h2><br><br>
+<img src="C:\Users\ABC\Desktop\New folder\Source\states\Kolasib-400x229.jpg" border=5 width=380 height=240><br>
+<p></p>
+
+<br>
+
+<h2><li>  </li></h2><br><br>
+<img src="C:\Users\ABC\Desktop\New folder\Source\states\Reiek-400x229.jpg" border=5 width=380 height=240><br>
+<p></p>
+</ol>
+<a id="top"><a href="#bottom">Go to top ^</a></a>
+</body>
+</html>
+
